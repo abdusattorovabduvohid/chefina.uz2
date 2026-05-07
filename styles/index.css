@@ -75,6 +75,7 @@ ul a {
   padding-top: 7px;
   padding-right: 20px;
   padding-bottom: 7px;
+  cursor: pointer;
 }
 
 .p:hover {
@@ -154,6 +155,7 @@ h1 {
   background: white;
   color: #359740;
   transition: 0.1s ease;
+  cursor: pointer;
 }
 
 .narxx {
